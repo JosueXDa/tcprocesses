@@ -1,0 +1,4 @@
+# requirements.txt para el servidor
+# Dependencias para el servidor de procesos con métricas del sistema
+
+psutil>=5.8.0
